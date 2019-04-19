@@ -6,7 +6,7 @@ A a bookshelf app that allows you to select and categorize books you have read, 
 The starter repo contained all the CSS and HTML markup that may be used but omits the React code that is required to complete the project. This saves some time as I didn't had to write all the CSS and HTML from scratch.
 
 ## Considerations
-The focus of this project is on writing functional React code, not on making the page beautiful. Feel free to spend some time working on your layout and CSS if you want to, but the goal for this project is correct functionality.
+The focus of this project is on writing functional React code, not on making the page beautiful. The goal for this project is correct functionality.
 
 ## Submissions Requirements
 The submission should include all of the files necessary to install and launch the web application on a local web server.
